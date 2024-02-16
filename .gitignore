@@ -1,0 +1,7 @@
+miSpamKillerBot/.env.example
+/.env/
+
+../.idea
+/.idea/
+.vscode
+/.vscode/
